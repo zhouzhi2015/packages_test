@@ -1,13 +1,16 @@
 {
-    "name": "zhouzhi2015/package_test",
-    "description": "test",
-    "keywords": ["package", "repository", "generator", "static", "composer"],
-    "homepage": "https://github.com/zhouzhi2015/package_test",
-    "type": "library",
-    "license": "MIT",
-    "authors": [
+    "name":         "packages_test",
+    "type":         "library",
+    "description":  "Common tools",
+    "homepage":     "https://github.com/zhouzhi2015/packages_test",
+    "license":      "MIT",
+    "authors":      [
         {
-            "name": "zhouzhi"
+            "name": "zhouzhi",
+            "email": "1184795629@qq.com"
         }
-    ]
+    ],
+    "require":      {
+        "php": ">=5.6"
+    }
 }
