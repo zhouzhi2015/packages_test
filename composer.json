@@ -1,0 +1,13 @@
+{
+    "name": "zhouzhi2015/package_test",
+    "description": "test",
+    "keywords": ["package", "repository", "generator", "static", "composer"],
+    "homepage": "https://github.com/zhouzhi2015/package_test",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "zhouzhi"
+        }
+    ]
+}
